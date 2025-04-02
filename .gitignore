@@ -1,3 +1,17 @@
+# Arquivos sensíveis
+.env
+
+# Arquivos e pastas do Python
 __pycache__/
 *.pyc
-.env
+*.pyo
+*.pyd
+
+# Ambientes virtuais
+venv/
+env/
+
+# Arquivos de build e logs
+*.log
+dist/
+build/
