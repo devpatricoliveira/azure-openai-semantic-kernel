@@ -1,6 +1,8 @@
 {
-  "api_endpoint": "cole_o_endpoint_aqui",
-  "api_key": "cole_sua_chave_aqui",
-  "api_version": "02-04-2025",
-  "deployment_name": "nome_do_modelo"
+  "azure_openai": {
+    "endpoint": "cole_o_endpoint_aqui",
+    "api_key": "cole_sua_chave_aqui",
+    "api_version": "2024-02-01",
+    "deployment_name": "cole_o_nome_do_modelo_aqui"
+  }
 }
