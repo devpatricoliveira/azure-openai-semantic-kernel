@@ -1,13 +1,28 @@
-# Ignora arquivos sensíveis
+# Ignorar arquivos de ambiente
 .env
 
-# Ignora diretórios de ambiente virtual
+# Ignorar arquivos de configuração do ambiente virtual
 venv/
-
-# Ignora arquivos de cache do Python
-__pycache__/
 *.pyc
+__pycache__/
 
-# Ignora arquivos de configuração específicos de IDEs
-.vscode/
+# Ignorar arquivos de log
+*.log
+
+# Ignorar dependências do Python
+*.egg-info/
+dist/
+build/
+
+# Ignorar arquivos temporários do editor
+*.swp
+*.swo
+.DS_Store
 .idea/
+.vscode/
+
+# Ignorar o arquivo de configuração de ambiente do VS Code
+.vscode/
+
+# Ignorar configurações locais específicas do editor (caso use o Visual Studio Code)
+.vscode/
