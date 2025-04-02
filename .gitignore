@@ -1,17 +1,13 @@
-# Arquivos sensíveis
+# Ignora arquivos sensíveis
 .env
 
-# Arquivos e pastas do Python
+# Ignora diretórios de ambiente virtual
+venv/
+
+# Ignora arquivos de cache do Python
 __pycache__/
 *.pyc
-*.pyo
-*.pyd
 
-# Ambientes virtuais
-venv/
-env/
-
-# Arquivos de build e logs
-*.log
-dist/
-build/
+# Ignora arquivos de configuração específicos de IDEs
+.vscode/
+.idea/
