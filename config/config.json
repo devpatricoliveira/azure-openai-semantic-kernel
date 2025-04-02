@@ -1,0 +1,6 @@
+{
+  "api_endpoint": "cole_o_endpoint_aqui",
+  "api_key": "cole_sua_chave_aqui",
+  "api_version": "02-04-2025",
+  "deployment_name": "nome_do_modelo"
+}
