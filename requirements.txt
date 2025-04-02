@@ -1,0 +1,4 @@
+openai
+semantic-kernel
+python-dotenv
+requests
