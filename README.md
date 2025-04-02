@@ -28,7 +28,7 @@ Criar exemplos práticos de uso da API para consultar Pokémons clássicos.
 ## 🔧 Como configurar
 ### 1️⃣ Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/azure-openai-semantic-kernel.git
+git clone https://github.com/devpatricoliveira/azure-openai-semantic-kernel.git
 azure-openai-semantic-kernel
 ```
 
